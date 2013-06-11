@@ -4,8 +4,9 @@ Changelog
 0.2 (unreleased)
 ----------------
 
-- Nothing changed yet.
-
+ * Updated metadata package [macagua]
+ * Added a Spanish Demo for using Simple OpenID Plugin [macagua]
+ * Added Spanish translation for OpenID Plugin [macagua]
 
 0.1 (2012-04-03)
 ----------------
